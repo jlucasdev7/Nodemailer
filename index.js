@@ -15,7 +15,7 @@ transport.sendMail({
     to: '',                 //E-mail do Destinatário
     subject: '', //Titulo Principal
     html: '',   //Mensagem
-    text: '',  //Mensagem
+    text: '',  //Mensagem...
 })
 
 .then(() => console.log('Email Enviado com Sucesso!'))
